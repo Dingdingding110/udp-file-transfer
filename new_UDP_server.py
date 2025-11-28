@@ -6,8 +6,8 @@ from datetime import datetime
 from socket import timeout
 """
 UDP文件传输服务器
-学号：你的学号
-姓名：你的姓名
+学号：241002523
+姓名：丁晨
 GitHub地址：https://github.com/Dingdingding110/udp-file-transfer
 
 运行环境：Python 3.6+
@@ -270,4 +270,5 @@ def main():
 
 
 if __name__ == "__main__":
+
     main()
